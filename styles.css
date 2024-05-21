@@ -1,0 +1,71 @@
+/* 
+body {
+    background-color: white;
+    width: 1530px;
+    height: 735px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container-md {
+    background-color: white;
+    padding: 0;
+    border:1px solid gainsboro;
+    border-radius: 5px;
+}
+.header {
+    background-color: rgb(243, 241, 241);
+    margin: 0;
+    padding: 0;
+    border:1px solid gainsboro;
+}
+h2 {
+    padding: 15px;
+    padding-bottom: 8px;
+}
+form {
+    display: inline-block;
+    border-radius: 1px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+fieldset {
+    margin: 10px;
+}
+.amount-input {
+    display:flex;
+    align-items: center;
+}
+.formbody {
+    padding: 15px;
+}
+.card-type {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.state-selector {
+    display: flex;
+    flex-direction: column;
+}
+.message-label {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.footer {
+    background-color: rgb(243, 241, 241);
+    margin: 0;
+    padding: 8px;
+    border:1px solid gainsboro;
+}
+button {
+    margin: 5px;
+}
+.footer {
+    display: flex;
+    justify-content: flex-end;
+} */
